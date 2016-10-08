@@ -1,5 +1,3 @@
-Boilerplate React App, this time with
-- SCSS
-- loaders
-- jquery
-- foundation
+React Timer App
+
+Have a cool timer and countdown app on the go!
